@@ -1,7 +1,0 @@
-[{"message":"A friend's frown is better than a fool's smile.","id":"5403c81dc2fea4020029ab34"},
-
-{"message":"A friend in need is a friend indeed.","id":"5403c81dc2fea4020029ab35"},
-{"message":"A friend is easier lost than found.","id":"5403c81dc2fea4020029ab36"},
-{"message":"A friend to everybody is a friend to nobody.","id":"5403c81dc2fea4020029ab37"},{"message":"A problem shared is a problem halved.","id":"5403c81dc2fea4020029ab38"},
-{"message":"A true friend is someone who reaches for your hand, but touches your heart.","id":"5403c81dc2fea4020029ab39"},
-{"message":"False friends are worse than open enemies.","id":"5403c81dc2fea4020029ab3a"},{"message":"Flattery is all right so long as you don't inhale.","id":"5403c81dc2fea4020029ab3b"},
